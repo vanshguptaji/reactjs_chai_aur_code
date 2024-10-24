@@ -13,7 +13,7 @@ function App() {
   const addValue = () => {
     // console.log("value added", Math.random());  
     // Counter += 1;
-    if (counter < 30){
+    if (counter < 30){ 
     counter += 1;
     setCounter(counter)
     console.log(counter);
