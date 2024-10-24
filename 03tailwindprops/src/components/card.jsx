@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Card({username, profession="porn producer"}) {
+function Card({username, profession="student"}) {
     // console.log("props",props.username);
     console.log(username);
     
